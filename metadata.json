@@ -1,0 +1,6 @@
+{
+  "name": "Thiết kế Theo Yêu cầu",
+  "description": "Hệ thống Quản lý Yêu cầu Thiết kế và Theo dõi Tiến độ Nội bộ dành cho Doanh nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
